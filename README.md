@@ -1,3 +1,3 @@
 # Prog-Imperativa
 
-Tracking my learning with C 
+Tracking my learning in C 

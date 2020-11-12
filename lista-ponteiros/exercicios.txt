@@ -1,0 +1,15 @@
+1) Escreva um programa que contenha duas variáveis inteiras. Leia essas variaveis
+do teclado. Em seguida, compare seus endereços e exiba o conteúdo do maior
+endereço.
+2) Faca um programa que leia dois valores inteiros e chame uma função que receba
+estes 2 valores de entrada e retorne o maior valor na primeira variável e o menor
+valor na segunda variável. Escreva o conteudo das 2 variáveis na tela.
+3) Crie um programa que contenha um array de inteiros contendo 5 elementos.
+Utilizando apenas aritmética de ponteiros, leia esse array do teclado e imprima o
+dobro de cada valor lido.
+4) Escreva uma função que aceita como parâmetro um array de inteiros com N
+valores, e determina o maior elemento do array e o numero de vezes que este
+elemento ocorreu no array. Por exemplo, para um array com os seguintes
+elementos: 5, 2, 15, 3, 7, 15, 8, 6, 15, a função deve retorna para o programa que
+a chamou o valor 15 e o numero 3 (indicando que o numero 15 ocorreu 3 vezes).
+A função deve ser do tipo void.

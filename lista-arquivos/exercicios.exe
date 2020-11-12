@@ -1,0 +1,15 @@
+1) Escreva um programa que:
+(a) Crie/abra um arquivo texto de nome “arq.txt”
+(b) Permita que o usuário grave diversos caracteres nesse arquivo, ate que o
+usuário entre com o caractere ‘0’
+(c) Feche o arquivo
+Agora, abra e leia o arquivo, caractere por caractere, e escreva na tela todos os
+caracteres armazenados.
+2) Faça um programa que receba do usuário um arquivo texto e um caractere.
+Mostre na tela quantas vezes aquele caractere ocorre dentro do arquivo.
+3) Faça um programa que permita que o usuário entre com diversos nomes e
+telefone para cadastro, e crie um arquivo com essas informações, uma por linha.
+O usuário finaliza a entrada com ‘0’ para o telefone.
+4) Faca um programa que recebe um vetor de 10 números, converta cada um desses
+números para binário e grave a sequência de 0s e 1s em um arquivo texto. Cada
+número deve ser gravado em uma linha.

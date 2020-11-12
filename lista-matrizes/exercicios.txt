@@ -1,0 +1,19 @@
+Resolva usando matrizes.
+1)Faça um programa que leia uma matriz de 5 linhas e 4 colunas contendo as seguintes
+informações sobre alunos de uma disciplina, sendo todas as informações do tipo inteiro:
+Primeira coluna: número de matrícula (use um inteiro)
+Segunda coluna: média das provas
+Terceira coluna: média dos trabalhos
+Quarta coluna: nota final
+Elabore um programa que:
+(a) Leia as três primeiras informações de cada aluno
+(b) Calcule a nota final como sendo a soma da média das provas e da media dos
+trabalhos
+(c) Imprima a matrícula do aluno que obteve a maior nota final (assuma que so existe
+uma maior nota)
+(d) Imprima a média aritmética das notas finais
+2) Faca programa que leia uma matriz 3 x 6 com valores reais.
+(a) Imprima a soma de todos os elementos das colunas ímpares.
+(b) Imprima a média aritmética dos elementos da segunda e quarta colunas.
+(c) Substitua os valores da sexta coluna pela soma dos valores das colunas 1 e 2.
+(d) Imprima a matriz modificada.

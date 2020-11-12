@@ -1,0 +1,27 @@
+1) Crie uma estrutura representando os alunos de um determinado curso. A
+estrutura deve conter a matrícula do aluno, nome, nota da primeira prova, nota
+da segunda prova e nota da terceira prova.
+(a) Permita ao usuário entrar com os dados de 5 alunos.
+(b) Encontre o aluno com maior nota da primeira prova.
+(c) Encontre o aluno com maior média geral.
+(d) Encontre o aluno com menor média geral
+(e) Para cada aluno diga se ele foi aprovado ou reprovado, considerando o valor
+7 para aprovação.
+2) Faca um programa que armazene em um registro de dados (estrutura composta)
+os dados de um funcionário de uma empresa, compostos de: Nome, Idade, Sexo
+(M/F), CPF, Data de Nascimento, Código do Setor onde trabalha (0-99), Cargo
+que ocupa (string de ate 30 caracteres) e Salario. Os dados devem ser digitados
+pelo usuário, armazenados na estrutura e exibidos na tela.
+3) Faca um programa que seja uma agenda de compromissos e:
+• Crie e leia um vetor de 5 estruturas de dados com: compromisso (máximo 60
+letras) e data. A data deve ser outra estrutura de dados contendo dia, mês e ano.
+• Leia dois inteiros M e A e mostre todos os compromissos do mês M do ano A.
+Repita o procedimento ate ler M = 0.
+4) Escreva um programa que receba dois structs do tipo dma, cada um
+representando uma data valida, e calcule o numero de dias que decorreram entre
+as duas datas.
+struct dma {
+int dia;
+int mes;
+int ano;
+};

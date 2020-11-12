@@ -1,0 +1,37 @@
+1) Faça uma função para verificar se um número é positivo ou negativo. Sendo que
+o valor de retorno será 1 se positivo, -1 se negativo e 0 se for igual a 0.
+2) Faça uma função que receba a distância em Km e a quantidade de litros de
+gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l
+e escreva uma mensagem de acordo com a tabela abaixo:
+3) Faça	uma	função	que	receba	um	vetor	de	reais	e	retorne	a	media	dele.	
+4) Crie	uma	função	que	calcula	o	comprimento	de	uma	string	e	que	possui	a	seguinte	
+assinatura:	void	tamanho(char	*str,	int	*strsize).	
+5) Considerando	a	estrutura:	
+struct	Ponto{
+				int	x;
+				int	y;
+				};
+para	representar	um	ponto	em	uma	grade	2D,	implemente	uma	função	que	indique	se	
+um	ponto	p	esta	́localizado	dentro	ou	fora	de	um	retângulo.	O	retângulo	e	́definido	
+por	seus	vértices	inferior	esquerdo	v1	e	superior	direito	v2.	A	função	deve	retornar	1	
+caso	o	ponto	esteja	localizado	dentro	do	retângulo	e	0	caso	contrário.	Essa	função	deve	
+obedecer	ao	protótipo:	
+				int	dentroRet	(struct	Ponto*	v1,	struct	Ponto*	v2,	struct	Ponto*	p);
+CONSUMO (Km/l) MENSAGEM
+menor que 8 Venda o carro!
+entre 8 e 14 Economico! ˆ
+maior que 12 Super economico! ˆ
+14. Fac¸a uma func¸ao que receba a dist ˜ ancia em ˆ Km e a quantidade de litros de gasolina
+consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma
+mensagem de acordo com a tabela abaixo:
+15. Crie um programa que receba tres valores (obrigatoriamente maiores que zero), repre- ˆ
+sentando as medidas dos tres lados de um tri ˆ angulo. Elabore func¸ ˆ oes para: ˜
+(a) Determinar se eles lados formam um triangulo, sabendo que: ˆ
+• O comprimento de cada lado de um triangulo ˆ e menor do que a soma dos outros ´
+dois lados.
+(b) Determinar e mostrar o tipo de triangulo, caso as medidas formem um tri ˆ angulo. ˆ
+Sendo que:
+• Chama-se equilatero o tri ´ angulo que tem tr ˆ es lados iguais. ˆ
+• Denominam-se isosceles o tri ´ angulo que tem o comprimento de dois lados ˆ
+iguais.
+• Recebe o nome de escaleno o triangulo que tem os tr ˆ es la
